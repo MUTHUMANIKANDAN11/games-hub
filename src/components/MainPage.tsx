@@ -1,4 +1,5 @@
 import Header from "./Header";
+import GamesGrid from "./GamesGrid";
 
 const MainPage = () => {
   return (
@@ -10,7 +11,9 @@ const MainPage = () => {
       </div>
       <div className="row flex-grow-1 d-flex">
         <div className="col-3 d-none d-md-block right-bar">side bar</div>
-        <div className="col-9 flex-grow-1">main page</div>
+        <div className="col-9 flex-grow-1">
+          <GamesGrid></GamesGrid>
+        </div>
       </div>
     </div>
   );
