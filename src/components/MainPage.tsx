@@ -9,10 +9,12 @@ const MainPage = () => {
           <Header></Header>
         </div>
       </div>
-      <div className="row flex-grow-1 d-flex">
-        <div className="col-3 d-none d-md-block right-bar">side bar</div>
-        <div className="col-9 flex-grow-1">
-          <GamesGrid></GamesGrid>
+      <div className="row flex-grow-1">
+        <div className="col-2 d-none d-md-block right-bar">side bar</div>
+        <div className="col bg-success">
+          <div className="container">
+            <GamesGrid></GamesGrid>
+          </div>
         </div>
       </div>
     </div>
