@@ -1,7 +1,11 @@
 import { useState, useEffect } from "react";
 import Form from "react-bootstrap/Form";
 
-const DarkModeToggle = () => {
+const DarkModeToggle = ({
+  onThemeChange,
+}: {
+  onThemeChange: (dark: boolean) => void;
+}) => {
   const [darkMode, setDarkMode] = useState(() => {
     return localStorage.getItem("theme") === "dark";
   });
@@ -14,13 +18,13 @@ const DarkModeToggle = () => {
       document.body.classList.remove("bg-dark", "text-white");
       localStorage.setItem("theme", "light");
     }
+    onThemeChange(darkMode);
   }, [darkMode]);
 
   return (
     <Form.Check
       type="switch"
       id="dark-mode-switch"
-      label="Dark Mode"
       checked={darkMode}
       onChange={() => setDarkMode(!darkMode)}
       className="mt-3"

@@ -1,11 +1,33 @@
-.box {
-  background-color: lightblue;
-  border: 1px solid blue;
-  min-height: 50px;
-  font-size: 2rem;
-  height: 100%;
+body{
+  /* overflow: hidden; */
 }
 
+.fixed-grid{
+  position: fixed;
+}
+
+/* WebKit Browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 10px; /* Scrollbar width */
+}
+
+::-webkit-scrollbar-track {
+  background: #f8f9fa; /* Track color */
+  /* border-top: 10px solid transparent; */
+  margin-top: 65px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #6c757d; /* Thumb color */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #495057; /* Thumb color on hover */
+}
+
+
+
+/* 
 body::before {
   content: "XS";
   color: black;
@@ -18,12 +40,9 @@ body::before {
   z-index: 100;
 }
 
-.bottom-bar{
-  border-bottom: solid 1px gray;
-}
-
-.right-bar{
-  border-right: solid 1px gray;
+.border-mark{
+  border: solid 1px gray;
+  border-radius: 5px;
 }
 
 @media (min-width: 576px) {
@@ -54,4 +73,4 @@ body::before {
   body::before {
     content: "XXL";
   }
-}
+} */

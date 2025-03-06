@@ -1,29 +1,28 @@
-@media (min-width: 576px) {
-  body::before {
-    content: "SM";
-  }
+.full-height-scroll {
+  overflow-y: auto; /* Enables scrolling */
 }
 
-@media (min-width: 768px) {
-  body::before {
-    content: "MD";
-  }
+/* WebKit (Chrome, Safari, Edge) Scrollbar Styling */
+.full-height-scroll::-webkit-scrollbar {
+  width: 8px;
 }
 
-@media (min-width: 992px) {
-  body::before {
-    content: "LG";
-  }
+.full-height-scroll::-webkit-scrollbar-track {
+  background: #f8f9fa;
+  border-radius: 10px;
 }
 
-@media (min-width: 1200px) {
-  body::before {
-    content: "XL";
-  }
+.full-height-scroll::-webkit-scrollbar-thumb {
+  background: #6c757d;
+  border-radius: 10px;
 }
 
-@media (min-width: 1400px) {
-  body::before {
-    content: "XXL";
-  }
+.full-height-scroll::-webkit-scrollbar-thumb:hover {
+  background: #495057;
+}
+
+/* Firefox Scrollbar */
+.full-height-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #6c757d #f8f9fa;
 }

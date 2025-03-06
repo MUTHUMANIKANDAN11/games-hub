@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import Games from "../backend/games/games1.json";
+import Games from "../../backend/games/games1.json";
 import GameImage from "./GameImage";
-import "../styles/GameGrid.css";
+import "../../styles/GameGrid.css";
 
 export interface GameData {
   id: number;
@@ -29,11 +29,11 @@ const GamesGrid = () => {
   }, []);
 
   return (
-    <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-3 row-cols-xxl-4">
+    <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-3 row-cols-xxl-4 mt-2 full-height-scroll">
       {game.map((item) => (
         <div className="col mb-3">
           <div className="card game-card">
-            <img src={item.image} className="card-img-top" alt="..." />
+            <GameImage image={item.image} />
             <div className="card-body">
               <h5 className="card-title">{item.name}</h5>
               <a href="#" className="btn btn-primary">
