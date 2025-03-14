@@ -1,0 +1,457 @@
+{
+  "count": 454487,
+  "next": "https://api.rawg.io/api/developers?key=ff21d233351b48e39e19b6a27274792b&page=10",
+  "previous": "https://api.rawg.io/api/developers?key=ff21d233351b48e39e19b6a27274792b&page=8",
+  "results": [
+    {
+      "id": 256,
+      "name": "Rebellion",
+      "slug": "rebellion",
+      "games_count": 60,
+      "image_background": "https://media.rawg.io/media/games/2ea/2ea9a19c60a97c3b164020aa1328f429.jpg",
+      "games": [
+        {
+          "id": 3892,
+          "slug": "sniper-elite-v2",
+          "name": "Sniper Elite V2",
+          "added": 6403
+        },
+        {
+          "id": 382,
+          "slug": "sniper-elite-4",
+          "name": "Sniper Elite 4",
+          "added": 4755
+        },
+        {
+          "id": 3651,
+          "slug": "sniper-elite-3",
+          "name": "Sniper Elite 3",
+          "added": 4025
+        },
+        {
+          "id": 39277,
+          "slug": "aliens-vs-predator-3",
+          "name": "Aliens vs. Predator",
+          "added": 2709
+        },
+        {
+          "id": 3416,
+          "slug": "zombie-army-trilogy",
+          "name": "Zombie Army Trilogy",
+          "added": 2279
+        },
+        {
+          "id": 14237,
+          "slug": "sniper-elite",
+          "name": "Sniper Elite",
+          "added": 2027
+        }
+      ]
+    },
+    {
+      "id": 4878,
+      "name": "Eidos Montreal",
+      "slug": "eidos-montreal",
+      "games_count": 12,
+      "image_background": "https://media.rawg.io/media/screenshots/288/2887d8c9bfb2cd4a2e19c9b10be460f3.jpg",
+      "games": [
+        {
+          "id": 1447,
+          "slug": "deus-ex-mankind-divided",
+          "name": "Deus Ex: Mankind Divided",
+          "added": 10670
+        },
+        {
+          "id": 51329,
+          "slug": "shadow-of-the-tomb-raider",
+          "name": "Shadow of the Tomb Raider",
+          "added": 8246
+        },
+        {
+          "id": 3876,
+          "slug": "deus-ex-human-revolution-directors-cut",
+          "name": "Deus Ex: Human Revolution - Director's Cut",
+          "added": 7698
+        },
+        {
+          "id": 3766,
+          "slug": "thief",
+          "name": "Thief",
+          "added": 7262
+        },
+        {
+          "id": 4440,
+          "slug": "deus-ex-human-revolution",
+          "name": "Deus Ex: Human Revolution",
+          "added": 6111
+        },
+        {
+          "id": 58859,
+          "slug": "marvels-avengers",
+          "name": "Marvel’s Avengers",
+          "added": 2977
+        }
+      ]
+    },
+    {
+      "id": 14787,
+      "name": "THQ",
+      "slug": "thq",
+      "games_count": 36,
+      "image_background": "https://media.rawg.io/media/screenshots/833/833fbf272ea5cb996ffe992d2dc2f851.jpg",
+      "games": [
+        {
+          "id": 4502,
+          "slug": "darksiders",
+          "name": "Darksiders",
+          "added": 8003
+        },
+        {
+          "id": 4599,
+          "slug": "saints-row-2",
+          "name": "Saints Row 2",
+          "added": 7448
+        },
+        {
+          "id": 19365,
+          "slug": "homefront",
+          "name": "Homefront",
+          "added": 6409
+        },
+        {
+          "id": 15566,
+          "slug": "red-faction-guerrilla",
+          "name": "Red Faction: Guerrilla",
+          "added": 4700
+        },
+        {
+          "id": 4523,
+          "slug": "red-faction-armageddon",
+          "name": "Red Faction: Armageddon",
+          "added": 4453
+        },
+        {
+          "id": 4645,
+          "slug": "warhammer-40000-kill-team",
+          "name": "Warhammer 40,000: Kill Team",
+          "added": 467
+        }
+      ]
+    },
+    {
+      "id": 8986,
+      "name": "NetherRealm Studios",
+      "slug": "netherrealm-studios",
+      "games_count": 15,
+      "image_background": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg",
+      "games": [
+        {
+          "id": 17540,
+          "slug": "injustice-gods-among-us-ultimate-edition",
+          "name": "Injustice: Gods Among Us Ultimate Edition",
+          "added": 9830
+        },
+        {
+          "id": 108,
+          "slug": "mortal-kombat-x",
+          "name": "Mortal Kombat X",
+          "added": 8934
+        },
+        {
+          "id": 274480,
+          "slug": "mortal-kombat-11",
+          "name": "Mortal Kombat 11",
+          "added": 5664
+        },
+        {
+          "id": 38,
+          "slug": "injustice-2",
+          "name": "Injustice 2",
+          "added": 4579
+        },
+        {
+          "id": 17599,
+          "slug": "mortal-kombat-komplete-edition",
+          "name": "Mortal Kombat Komplete Edition",
+          "added": 4059
+        },
+        {
+          "id": 211,
+          "slug": "injustice-gods-among-us",
+          "name": "Injustice: Gods Among Us",
+          "added": 443
+        }
+      ]
+    },
+    {
+      "id": 14196,
+      "name": "Nerve Software",
+      "slug": "nerve-software",
+      "games_count": 18,
+      "image_background": "https://media.rawg.io/media/games/858/8588039ed3ddb3eae2311c26a95d3980.jpg",
+      "games": [
+        {
+          "id": 58777,
+          "slug": "doom-eternal",
+          "name": "DOOM Eternal",
+          "added": 7797
+        },
+        {
+          "id": 906,
+          "slug": "cod-black-ops-iii",
+          "name": "Call of Duty: Black Ops III",
+          "added": 7173
+        },
+        {
+          "id": 19458,
+          "slug": "doom-3",
+          "name": "DOOM 3",
+          "added": 3918
+        },
+        {
+          "id": 17975,
+          "slug": "doom-ii",
+          "name": "DOOM II",
+          "added": 3326
+        },
+        {
+          "id": 22412,
+          "slug": "ultimate-doom",
+          "name": "Ultimate Doom",
+          "added": 2524
+        },
+        {
+          "id": 17604,
+          "slug": "return-to-castle-wolfenstein",
+          "name": "Return to Castle Wolfenstein",
+          "added": 2343
+        }
+      ]
+    },
+    {
+      "id": 4056,
+      "name": "Larian Studios",
+      "slug": "larian-studios",
+      "games_count": 17,
+      "image_background": "https://media.rawg.io/media/screenshots/c01/c0169cb887b2c233e493e21eae1e2865.jpg",
+      "games": [
+        {
+          "id": 10073,
+          "slug": "divinity-original-sin-2",
+          "name": "Divinity: Original Sin 2",
+          "added": 7080
+        },
+        {
+          "id": 16359,
+          "slug": "divinity-original-sin-enhanced-edition",
+          "name": "Divinity: Original Sin - Enhanced Edition",
+          "added": 5672
+        },
+        {
+          "id": 41490,
+          "slug": "divinity-original-sin",
+          "name": "Divinity: Original Sin",
+          "added": 4922
+        },
+        {
+          "id": 324997,
+          "slug": "baldurs-gate-3",
+          "name": "Baldur's Gate III",
+          "added": 4169
+        },
+        {
+          "id": 18449,
+          "slug": "divinity-ii",
+          "name": "Divinity II: Developer's Cut",
+          "added": 3233
+        },
+        {
+          "id": 17844,
+          "slug": "divine-divinity",
+          "name": "Divine Divinity",
+          "added": 2999
+        }
+      ]
+    },
+    {
+      "id": 10251,
+      "name": "Platinum Games",
+      "slug": "platinumgames",
+      "games_count": 40,
+      "image_background": "https://media.rawg.io/media/games/ab9/ab98819581cb09e6ff6b8f9a48fd7aad.jpg",
+      "games": [
+        {
+          "id": 10141,
+          "slug": "nierautomata",
+          "name": "NieR:Automata",
+          "added": 8843
+        },
+        {
+          "id": 4101,
+          "slug": "bayonetta",
+          "name": "Bayonetta",
+          "added": 6090
+        },
+        {
+          "id": 4094,
+          "slug": "metal-gear-rising-revengeance",
+          "name": "Metal Gear Rising: Revengeance",
+          "added": 5995
+        },
+        {
+          "id": 4206,
+          "slug": "vanquish",
+          "name": "Vanquish",
+          "added": 3447
+        },
+        {
+          "id": 3145,
+          "slug": "transformers-dev",
+          "name": "TRANSFORMERS: Devastation",
+          "added": 1346
+        },
+        {
+          "id": 9731,
+          "slug": "8-bit-bayonetta",
+          "name": "8-Bit Bayonetta",
+          "added": 1082
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "name": "Curve Digital",
+      "slug": "curve-digital",
+      "games_count": 37,
+      "image_background": "https://media.rawg.io/media/screenshots/2d9/2d9f74addd8f5b5f83459c2cb700aaf4.jpg",
+      "games": [
+        {
+          "id": 1789,
+          "slug": "the-swapper",
+          "name": "The Swapper",
+          "added": 4675
+        },
+        {
+          "id": 13247,
+          "slug": "human-fall-flat",
+          "name": "Human: Fall Flat",
+          "added": 5863
+        },
+        {
+          "id": 3494,
+          "slug": "thomas-was-alone",
+          "name": "Thomas Was Alone",
+          "added": 3828
+        },
+        {
+          "id": 3374,
+          "slug": "stealth-inc-2-game-of-clones",
+          "name": "Stealth Inc 2: A Game of Clones",
+          "added": 3101
+        },
+        {
+          "id": 10980,
+          "slug": "serial-cleaner",
+          "name": "Serial Cleaner",
+          "added": 3115
+        },
+        {
+          "id": 1726,
+          "slug": "10-second-ninja-x",
+          "name": "10 Second Ninja X",
+          "added": 2952
+        }
+      ]
+    },
+    {
+      "id": 3461,
+      "name": "Bohemia Interactive",
+      "slug": "bohemia-interactive",
+      "games_count": 43,
+      "image_background": "https://media.rawg.io/media/games/4a1/4a1fb1b4485cefc6de42eb6dd0559577.jpg",
+      "games": [
+        {
+          "id": 19196,
+          "slug": "arma-cold-war-assault",
+          "name": "ARMA: Cold War Assault",
+          "added": 4372
+        },
+        {
+          "id": 9494,
+          "slug": "arma-2",
+          "name": "ArmA II",
+          "added": 3753
+        },
+        {
+          "id": 9495,
+          "slug": "arma-2-operation-arrowhead",
+          "name": "ArmA II: Operation Arrowhead",
+          "added": 3370
+        },
+        {
+          "id": 9811,
+          "slug": "dayz",
+          "name": "DayZ",
+          "added": 3136
+        },
+        {
+          "id": 9997,
+          "slug": "arma-3",
+          "name": "Arma 3",
+          "added": 3103
+        },
+        {
+          "id": 42064,
+          "slug": "arma-2-dayz-mod",
+          "name": "ArmA II: DayZ Mod",
+          "added": 2101
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "name": "Crytek",
+      "slug": "crytek",
+      "games_count": 29,
+      "image_background": "https://media.rawg.io/media/screenshots/e50/e504453430d648dbbca9fe48d8a0f7ab.jpg",
+      "games": [
+        {
+          "id": 17803,
+          "slug": "ryse-son-of-rome",
+          "name": "Ryse: Son of Rome",
+          "added": 5622
+        },
+        {
+          "id": 19647,
+          "slug": "crysis-2-maximum-edition",
+          "name": "Crysis 2 - Maximum Edition",
+          "added": 4869
+        },
+        {
+          "id": 4581,
+          "slug": "crysis",
+          "name": "Crysis",
+          "added": 4647
+        },
+        {
+          "id": 19560,
+          "slug": "far-cry",
+          "name": "Far Cry",
+          "added": 3539
+        },
+        {
+          "id": 10545,
+          "slug": "warface-ice-breaker",
+          "name": "Warface: Ice Breaker",
+          "added": 3121
+        },
+        {
+          "id": 4125,
+          "slug": "crysis-3",
+          "name": "Crysis 3",
+          "added": 2557
+        }
+      ]
+    }
+  ]
+}

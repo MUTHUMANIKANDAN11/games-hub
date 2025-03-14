@@ -2,12 +2,20 @@ import { useEffect, useState } from "react";
 import Games from "../../backend/games/games1.json";
 import GameImage from "./GameImage";
 import "../../styles/GameGrid.css";
+import Icons from "./Icons";
+
+export interface platform {
+  id: number;
+  name: string;
+  slug: string;
+}
 
 export interface GameData {
   id: number;
   name: string;
   image: string;
   rating: number;
+  platforms: platform[];
 }
 
 interface Props {
@@ -26,6 +34,11 @@ const GamesGrid = ({ isDark }: Props) => {
         name: it.name,
         image: it.background_image,
         rating: it.rating,
+        platforms: it.platforms.map((plat) => ({
+          id: plat.platform.id,
+          name: plat.platform.name,
+          slug: plat.platform.slug,
+        })),
       });
     });
 
@@ -43,8 +56,9 @@ const GamesGrid = ({ isDark }: Props) => {
             style={{ border: "none" }}
           >
             <GameImage image={item.image} />
-            <div className="card-body">
-              <h5 className="card-title">{item.name}</h5>
+            <div className="card-body text-start">
+              <h3 className="card-title">{item.name}</h3>
+              <Icons platforms={item.platforms}></Icons>
             </div>
           </div>
         </div>

@@ -1,0 +1,457 @@
+{
+  "count": 454486,
+  "next": "https://api.rawg.io/api/developers?key=ff21d233351b48e39e19b6a27274792b&page=7",
+  "previous": "https://api.rawg.io/api/developers?key=ff21d233351b48e39e19b6a27274792b&page=5",
+  "results": [
+    {
+      "id": 5734,
+      "name": "Treyarch",
+      "slug": "treyarch",
+      "games_count": 38,
+      "image_background": "https://media.rawg.io/media/games/d98/d98c0bf1f49739ef41d1bcb6f5952fdf.jpg",
+      "games": [
+        {
+          "id": 906,
+          "slug": "cod-black-ops-iii",
+          "name": "Call of Duty: Black Ops III",
+          "added": 7173
+        },
+        {
+          "id": 865,
+          "slug": "call-of-duty-black-ops",
+          "name": "Call of Duty: Black Ops",
+          "added": 6820
+        },
+        {
+          "id": 11276,
+          "slug": "call-of-duty-modern-warfare-3",
+          "name": "Call of Duty: Modern Warfare 3",
+          "added": 6228
+        },
+        {
+          "id": 14446,
+          "slug": "cod-black-ops-ii",
+          "name": "Call of Duty: Black Ops II",
+          "added": 6017
+        },
+        {
+          "id": 5528,
+          "slug": "call-of-duty-world-at-war",
+          "name": "Call of Duty: World at War",
+          "added": 4535
+        },
+        {
+          "id": 4535,
+          "slug": "modern-warfare",
+          "name": "Call of Duty 4: Modern Warfare",
+          "added": 4326
+        }
+      ]
+    },
+    {
+      "id": 4079,
+      "name": "Avalanche Studios",
+      "slug": "avalanche-studios",
+      "games_count": 18,
+      "image_background": "https://media.rawg.io/media/screenshots/a49/a4984b40e4cfc14eb259a7ca3903b7eb.jpg",
+      "games": [
+        {
+          "id": 3017,
+          "slug": "just-cause-3",
+          "name": "Just Cause 3",
+          "added": 9297
+        },
+        {
+          "id": 4513,
+          "slug": "just-cause-2",
+          "name": "Just Cause 2",
+          "added": 8868
+        },
+        {
+          "id": 3191,
+          "slug": "mad-max",
+          "name": "Mad Max",
+          "added": 8704
+        },
+        {
+          "id": 19685,
+          "slug": "just-cause",
+          "name": "Just Cause",
+          "added": 4115
+        },
+        {
+          "id": 4612,
+          "slug": "renegade-ops",
+          "name": "Renegade Ops",
+          "added": 4075
+        },
+        {
+          "id": 58698,
+          "slug": "just-cause-4",
+          "name": "Just Cause 4",
+          "added": 3554
+        }
+      ]
+    },
+    {
+      "id": 26425,
+      "name": "Bandai Namco Entertainment",
+      "slug": "bandai-namco-entertainment",
+      "games_count": 289,
+      "image_background": "https://media.rawg.io/media/screenshots/1cc/1cc5de44a7cc16510f7a139ae5493b6d.jpg",
+      "games": [
+        {
+          "id": 36,
+          "slug": "tekken-7",
+          "name": "TEKKEN 7",
+          "added": 4164
+        },
+        {
+          "id": 17158,
+          "slug": "pac-man-championship-edition-2",
+          "name": "PAC-MAN CHAMPIONSHIP EDITION 2",
+          "added": 3399
+        },
+        {
+          "id": 58637,
+          "slug": "code-vein",
+          "name": "Code Vein",
+          "added": 2959
+        },
+        {
+          "id": 486,
+          "slug": "tales-of-berseria",
+          "name": "Tales of Berseria",
+          "added": 2883
+        },
+        {
+          "id": 50736,
+          "slug": "soulcalibur-vi",
+          "name": "SoulCalibur VI",
+          "added": 2311
+        },
+        {
+          "id": 58829,
+          "slug": "super-smash-bros-ultimate",
+          "name": "Super Smash Bros. Ultimate",
+          "added": 2193
+        }
+      ]
+    },
+    {
+      "id": 13290,
+      "name": "Lucasfilm",
+      "slug": "lucasfilm",
+      "games_count": 43,
+      "image_background": "https://media.rawg.io/media/screenshots/101/1015fe740ce5654eb97c9140f6da3c3e.jpg",
+      "games": [
+        {
+          "id": 15859,
+          "slug": "star-wars-knights-of-the-old-republic-2",
+          "name": "Star Wars: Knights of the Old Republic",
+          "added": 6911
+        },
+        {
+          "id": 15858,
+          "slug": "kotor-ii",
+          "name": "Star Wars: Knights of the Old Republic II – The Sith Lords",
+          "added": 5595
+        },
+        {
+          "id": 13886,
+          "slug": "star-wars-battlefront-ii-2",
+          "name": "Star Wars: Battlefront II (2005)",
+          "added": 4846
+        },
+        {
+          "id": 11970,
+          "slug": "star-wars-jedi-knight-jedi-academy",
+          "name": "Star Wars Jedi Knight: Jedi Academy",
+          "added": 4379
+        },
+        {
+          "id": 12018,
+          "slug": "star-wars-jedi-knight-ii-jedi-outcast",
+          "name": "Star Wars Jedi Knight II: Jedi Outcast",
+          "added": 3791
+        },
+        {
+          "id": 15860,
+          "slug": "star-wars-the-force-unleashed-2",
+          "name": "STAR WARS: The Force Unleashed II",
+          "added": 3534
+        }
+      ]
+    },
+    {
+      "id": 28246,
+      "name": "Panic Button",
+      "slug": "panic-button",
+      "games_count": 15,
+      "image_background": "https://media.rawg.io/media/games/ce4/ce4b2ac8ee315bfe44aba7a5f39eb0c5.jpg",
+      "games": [
+        {
+          "id": 2454,
+          "slug": "doom",
+          "name": "DOOM (2016)",
+          "added": 13795
+        },
+        {
+          "id": 766,
+          "slug": "warframe",
+          "name": "Warframe",
+          "added": 13052
+        },
+        {
+          "id": 58777,
+          "slug": "doom-eternal",
+          "name": "DOOM Eternal",
+          "added": 7797
+        },
+        {
+          "id": 28202,
+          "slug": "wolfenstein-2-the-new-colossus",
+          "name": "Wolfenstein II: The New Colossus",
+          "added": 7165
+        },
+        {
+          "id": 19458,
+          "slug": "doom-3",
+          "name": "DOOM 3",
+          "added": 3918
+        },
+        {
+          "id": 3120,
+          "slug": "primal-carnage-extinction",
+          "name": "Primal Carnage: Extinction",
+          "added": 829
+        }
+      ]
+    },
+    {
+      "id": 4415,
+      "name": "Ubisoft Toronto",
+      "slug": "ubisoft-toronto",
+      "games_count": 13,
+      "image_background": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg",
+      "games": [
+        {
+          "id": 362,
+          "slug": "for-honor",
+          "name": "For Honor",
+          "added": 9633
+        },
+        {
+          "id": 3841,
+          "slug": "assassins-creed-iv-black-flag",
+          "name": "Assassin’s Creed IV: Black Flag",
+          "added": 9516
+        },
+        {
+          "id": 23585,
+          "slug": "far-cry-5",
+          "name": "Far Cry 5",
+          "added": 8295
+        },
+        {
+          "id": 8146,
+          "slug": "assassins-creed-unity-2",
+          "name": "Assassin's Creed Unity",
+          "added": 6865
+        },
+        {
+          "id": 3933,
+          "slug": "tom-clancys-splinter-cell-blacklist",
+          "name": "Tom Clancy’s Splinter Cell Blacklist",
+          "added": 2815
+        },
+        {
+          "id": 463723,
+          "slug": "far-cry-6",
+          "name": "Far Cry 6",
+          "added": 2612
+        }
+      ]
+    },
+    {
+      "id": 2347,
+      "name": "Turtle Rock Studios",
+      "slug": "turtle-rock-studios",
+      "games_count": 14,
+      "image_background": "https://media.rawg.io/media/games/c30/c304b2c132f6bc1b6bcec5b03417a005.jpg",
+      "games": [
+        {
+          "id": 12020,
+          "slug": "left-4-dead-2",
+          "name": "Left 4 Dead 2",
+          "added": 17326
+        },
+        {
+          "id": 19301,
+          "slug": "counter-strike",
+          "name": "Counter-Strike",
+          "added": 9214
+        },
+        {
+          "id": 13535,
+          "slug": "left-4-dead",
+          "name": "Left 4 Dead",
+          "added": 9137
+        },
+        {
+          "id": 18613,
+          "slug": "counter-strike-condition-zero",
+          "name": "Counter-Strike: Condition Zero",
+          "added": 7617
+        },
+        {
+          "id": 670682,
+          "slug": "counter-strike-condition-zero-deleted-scenes",
+          "name": "Counter-Strike: Condition Zero Deleted Scenes",
+          "added": 5746
+        },
+        {
+          "id": 16355,
+          "slug": "evolve-stage-2",
+          "name": "Evolve Stage 2",
+          "added": 4168
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Activision",
+      "slug": "activision",
+      "games_count": 163,
+      "image_background": "https://media.rawg.io/media/screenshots/d05/d0524e9b2e276dd9c8351881e897f7c9.jpg",
+      "games": [
+        {
+          "id": 3015,
+          "slug": "chivalry-medieval-warfare",
+          "name": "Chivalry: Medieval Warfare",
+          "added": 6867
+        },
+        {
+          "id": 34,
+          "slug": "crash-bandicoot-n-sane-trilogy",
+          "name": "Crash Bandicoot N. Sane Trilogy",
+          "added": 4806
+        },
+        {
+          "id": 884,
+          "slug": "call-of-duty-modern-warfare-remastered",
+          "name": "Call of Duty: Modern Warfare Remastered",
+          "added": 4566
+        },
+        {
+          "id": 58133,
+          "slug": "spyro-reignited-trilogy",
+          "name": "Spyro Reignited Trilogy",
+          "added": 4281
+        },
+        {
+          "id": 323065,
+          "slug": "call-of-duty-modern-warfare",
+          "name": "Call of Duty: Modern Warfare (2019)",
+          "added": 3879
+        },
+        {
+          "id": 4923,
+          "slug": "prototype",
+          "name": "Prototype",
+          "added": 3917
+        }
+      ]
+    },
+    {
+      "id": 10002,
+      "name": "Rocksteady Studios",
+      "slug": "rocksteady-studios",
+      "games_count": 16,
+      "image_background": "https://media.rawg.io/media/screenshots/575/57589cc46b6846cbca23ada27bc11c0c.jpg",
+      "games": [
+        {
+          "id": 3287,
+          "slug": "batman-arkham-knight",
+          "name": "Batman: Arkham Knight",
+          "added": 12061
+        },
+        {
+          "id": 17576,
+          "slug": "batman-arkham-city-goty",
+          "name": "Batman: Arkham City - Game of the Year Edition",
+          "added": 8638
+        },
+        {
+          "id": 17572,
+          "slug": "batman-aa-goty",
+          "name": "Batman: Arkham Asylum Game of the Year Edition",
+          "added": 8512
+        },
+        {
+          "id": 28623,
+          "slug": "batman-arkham-city-2",
+          "name": "Batman: Arkham City",
+          "added": 6538
+        },
+        {
+          "id": 4123,
+          "slug": "batman-arkham-asylum",
+          "name": "Batman: Arkham Asylum",
+          "added": 5880
+        },
+        {
+          "id": 1099,
+          "slug": "batman-arkham-vr",
+          "name": "Batman: Arkham VR",
+          "added": 774
+        }
+      ]
+    },
+    {
+      "id": 3988,
+      "name": "Croteam",
+      "slug": "croteam",
+      "games_count": 32,
+      "image_background": "https://media.rawg.io/media/games/f0e/f0e050dc774d4ae3afced76b33516295.jpg",
+      "games": [
+        {
+          "id": 10001,
+          "slug": "serious-sam-fusion-2017-beta",
+          "name": "Serious Sam Fusion 2017 (beta)",
+          "added": 5441
+        },
+        {
+          "id": 3697,
+          "slug": "serious-sam-3-bfe",
+          "name": "Serious Sam 3: BFE",
+          "added": 5313
+        },
+        {
+          "id": 12929,
+          "slug": "the-talos-principle",
+          "name": "The Talos Principle",
+          "added": 4952
+        },
+        {
+          "id": 22789,
+          "slug": "serious-sam-the-first-encounter",
+          "name": "Serious Sam: The First Encounter",
+          "added": 3994
+        },
+        {
+          "id": 28261,
+          "slug": "serious-sam-hd-tfe",
+          "name": "Serious Sam HD:  The First Encounter",
+          "added": 3948
+        },
+        {
+          "id": 13387,
+          "slug": "serious-sam-hd-the-second-encounter",
+          "name": "Serious Sam HD: The Second Encounter",
+          "added": 3485
+        }
+      ]
+    }
+  ]
+}

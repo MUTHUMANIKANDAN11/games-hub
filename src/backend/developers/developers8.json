@@ -1,0 +1,457 @@
+{
+  "count": 454487,
+  "next": "https://api.rawg.io/api/developers?key=ff21d233351b48e39e19b6a27274792b&page=9",
+  "previous": "https://api.rawg.io/api/developers?key=ff21d233351b48e39e19b6a27274792b&page=7",
+  "results": [
+    {
+      "id": 11580,
+      "name": "tinyBuild",
+      "slug": "tinybuild",
+      "games_count": 40,
+      "image_background": "https://media.rawg.io/media/games/ae1/ae1d93f1c29850a246cd6480a7b8ebdf.jpg",
+      "games": [
+        {
+          "id": 11228,
+          "slug": "speedrunners",
+          "name": "SpeedRunners",
+          "added": 3783
+        },
+        {
+          "id": 13199,
+          "slug": "graveyard-keeper",
+          "name": "Graveyard Keeper",
+          "added": 3164
+        },
+        {
+          "id": 54,
+          "slug": "punch-club",
+          "name": "Punch Club",
+          "added": 2823
+        },
+        {
+          "id": 19962,
+          "slug": "no-time-to-explain-remastered",
+          "name": "No Time To Explain Remastered",
+          "added": 2674
+        },
+        {
+          "id": 2359,
+          "slug": "divide-by-sheep",
+          "name": "Divide By Sheep",
+          "added": 2215
+        },
+        {
+          "id": 2503,
+          "slug": "party-hard",
+          "name": "Party Hard",
+          "added": 2214
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Epic Games",
+      "slug": "epic-games",
+      "games_count": 46,
+      "image_background": "https://media.rawg.io/media/screenshots/dbd/dbd43988f23859529e1a8c600c6a7e24.jpg",
+      "games": [
+        {
+          "id": 47137,
+          "slug": "fornite-battle-royale",
+          "name": "Fortnite Battle Royale",
+          "added": 5264
+        },
+        {
+          "id": 21736,
+          "slug": "unreal-gold",
+          "name": "Unreal Gold",
+          "added": 3658
+        },
+        {
+          "id": 4602,
+          "slug": "bulletstorm",
+          "name": "Bulletstorm",
+          "added": 3515
+        },
+        {
+          "id": 28615,
+          "slug": "gears-of-war",
+          "name": "Gears of War",
+          "added": 3288
+        },
+        {
+          "id": 28619,
+          "slug": "gears-of-war-2",
+          "name": "Gears of War 2",
+          "added": 2969
+        },
+        {
+          "id": 28131,
+          "slug": "fortnite",
+          "name": "Fortnite: Save The World",
+          "added": 2908
+        }
+      ]
+    },
+    {
+      "id": 9300,
+      "name": "Kojima Productions",
+      "slug": "kojima-productions",
+      "games_count": 28,
+      "image_background": "https://media.rawg.io/media/games/5ad/5adbec1ab1b6390835a3bc936b96091f.jpg",
+      "games": [
+        {
+          "id": 3192,
+          "slug": "metal-gear-solid-v-the-phantom-pain",
+          "name": "Metal Gear Solid V: The Phantom Pain",
+          "added": 12047
+        },
+        {
+          "id": 50738,
+          "slug": "death-stranding",
+          "name": "Death Stranding",
+          "added": 9165
+        },
+        {
+          "id": 3747,
+          "slug": "metal-gear-solid-v-ground-zeroes",
+          "name": "Metal Gear Solid V: Ground Zeroes",
+          "added": 9057
+        },
+        {
+          "id": 3469,
+          "slug": "metal-gear-solid-4-guns-of-the-patriots",
+          "name": "Metal Gear Solid 4: Guns of the Patriots",
+          "added": 2123
+        },
+        {
+          "id": 17703,
+          "slug": "castlevania-lords-of-shadow-ultimate-edition",
+          "name": "Castlevania: Lords of Shadow – Ultimate Edition",
+          "added": 2133
+        },
+        {
+          "id": 5529,
+          "slug": "castlevania-lords-of-shadow",
+          "name": "Castlevania: Lords of Shadow",
+          "added": 1559
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "name": "Klei Entertainment",
+      "slug": "klei-entertainment",
+      "games_count": 24,
+      "image_background": "https://media.rawg.io/media/screenshots/fde/fde071a634b0fd481644e52bf36bb34d.jpg",
+      "games": [
+        {
+          "id": 9882,
+          "slug": "dont-starve-together",
+          "name": "Don't Starve Together",
+          "added": 9875
+        },
+        {
+          "id": 9475,
+          "slug": "dont-starve",
+          "name": "Don't Starve",
+          "added": 6884
+        },
+        {
+          "id": 11974,
+          "slug": "mark-of-the-ninja",
+          "name": "Mark of the Ninja",
+          "added": 5295
+        },
+        {
+          "id": 2894,
+          "slug": "invisible-inc",
+          "name": "Invisible, Inc.",
+          "added": 2955
+        },
+        {
+          "id": 4473,
+          "slug": "shank-2",
+          "name": "Shank 2",
+          "added": 2809
+        },
+        {
+          "id": 4962,
+          "slug": "shank",
+          "name": "Shank",
+          "added": 2791
+        }
+      ]
+    },
+    {
+      "id": 4303,
+      "name": "Techland",
+      "slug": "techland",
+      "games_count": 51,
+      "image_background": "https://media.rawg.io/media/screenshots/b5f/b5f46030517737e0d2f62235df5b4801.jpg",
+      "games": [
+        {
+          "id": 28492,
+          "slug": "dead-island",
+          "name": "Dead Island",
+          "added": 7066
+        },
+        {
+          "id": 4013,
+          "slug": "call-of-juarez-gunslinger",
+          "name": "Call of Juarez: Gunslinger",
+          "added": 7289
+        },
+        {
+          "id": 14348,
+          "slug": "dying-light-the-following-enhanced-edition",
+          "name": "Dying Light: The Following - Enhanced Edition",
+          "added": 6924
+        },
+        {
+          "id": 42215,
+          "slug": "dying-light",
+          "name": "Dying Light",
+          "added": 4888
+        },
+        {
+          "id": 4031,
+          "slug": "dead-island-riptide",
+          "name": "Dead Island Riptide",
+          "added": 3071
+        },
+        {
+          "id": 58758,
+          "slug": "dying-light-2",
+          "name": "Dying Light 2 Stay Human",
+          "added": 3137
+        }
+      ]
+    },
+    {
+      "id": 7891,
+      "name": "Beenox",
+      "slug": "beenox",
+      "games_count": 39,
+      "image_background": "https://media.rawg.io/media/screenshots/ae0/ae0bb3c16d0660acb18b197d5856baf8.jpg",
+      "games": [
+        {
+          "id": 906,
+          "slug": "cod-black-ops-iii",
+          "name": "Call of Duty: Black Ops III",
+          "added": 7173
+        },
+        {
+          "id": 884,
+          "slug": "call-of-duty-modern-warfare-remastered",
+          "name": "Call of Duty: Modern Warfare Remastered",
+          "added": 4566
+        },
+        {
+          "id": 323065,
+          "slug": "call-of-duty-modern-warfare",
+          "name": "Call of Duty: Modern Warfare (2019)",
+          "added": 3879
+        },
+        {
+          "id": 58389,
+          "slug": "call-of-duty-black-ops-4",
+          "name": "Call of Duty: Black Ops 4",
+          "added": 2804
+        },
+        {
+          "id": 22865,
+          "slug": "tomb-raider-the-angel-of-darkness",
+          "name": "Tomb Raider: The Angel of Darkness",
+          "added": 2674
+        },
+        {
+          "id": 481910,
+          "slug": "call-of-duty-black-ops-cold-war",
+          "name": "Call of Duty: Black Ops Cold War",
+          "added": 2507
+        }
+      ]
+    },
+    {
+      "id": 9914,
+      "name": "Virtuos",
+      "slug": "virtuos",
+      "games_count": 20,
+      "image_background": "https://media.rawg.io/media/games/a14/a14acef284eaa4854f83c99e80fc15d8.jpg",
+      "games": [
+        {
+          "id": 10754,
+          "slug": "bioshock-remastered",
+          "name": "BioShock Remastered",
+          "added": 10814
+        },
+        {
+          "id": 11142,
+          "slug": "bioshock-2-remastered",
+          "name": "BioShock 2 Remastered",
+          "added": 9077
+        },
+        {
+          "id": 58777,
+          "slug": "doom-eternal",
+          "name": "DOOM Eternal",
+          "added": 7797
+        },
+        {
+          "id": 58385,
+          "slug": "rage-2",
+          "name": "Rage 2",
+          "added": 2918
+        },
+        {
+          "id": 3332,
+          "slug": "final-fantasy-xx-2-hd-remaster",
+          "name": "FINAL FANTASY X/X-2 HD Remaster",
+          "added": 2473
+        },
+        {
+          "id": 1314,
+          "slug": "bioshock-the-collection",
+          "name": "BioShock: The Collection",
+          "added": 1570
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "Playdigious",
+      "slug": "playdigious",
+      "games_count": 27,
+      "image_background": "https://media.rawg.io/media/screenshots/351/351ee0915fcd5a64e976791794039d5c.jpg",
+      "games": [
+        {
+          "id": 41,
+          "slug": "little-nightmares",
+          "name": "Little Nightmares",
+          "added": 11489
+        },
+        {
+          "id": 11726,
+          "slug": "dead-cells",
+          "name": "Dead Cells",
+          "added": 7139
+        },
+        {
+          "id": 11214,
+          "slug": "northgard",
+          "name": "Northgard",
+          "added": 3211
+        },
+        {
+          "id": 284664,
+          "slug": "streets-of-rage-4",
+          "name": "Streets of Rage 4",
+          "added": 2626
+        },
+        {
+          "id": 2666,
+          "slug": "mini-metro",
+          "name": "Mini Metro",
+          "added": 2565
+        },
+        {
+          "id": 1077,
+          "slug": "teslagrad",
+          "name": "Teslagrad",
+          "added": 2269
+        }
+      ]
+    },
+    {
+      "id": 13972,
+      "name": "Electronic Arts Canada",
+      "slug": "ea-canada",
+      "games_count": 142,
+      "image_background": "https://media.rawg.io/media/games/b7c/b7ca8e4d772a4b0569a1b52225f18f8f.jpg",
+      "games": [
+        {
+          "id": 28126,
+          "slug": "fifa-18",
+          "name": "FIFA 18",
+          "added": 2859
+        },
+        {
+          "id": 1249,
+          "slug": "ea-sports-fifa-17",
+          "name": "FIFA 17",
+          "added": 2752
+        },
+        {
+          "id": 3580,
+          "slug": "fifa-15",
+          "name": "FIFA 15",
+          "added": 2508
+        },
+        {
+          "id": 3164,
+          "slug": "ea-sports-fifa-16",
+          "name": "EA SPORTS FIFA 16",
+          "added": 2266
+        },
+        {
+          "id": 5783,
+          "slug": "fifa-14",
+          "name": "FIFA 14",
+          "added": 2246
+        },
+        {
+          "id": 326229,
+          "slug": "fifa-20",
+          "name": "FIFA 20",
+          "added": 2188
+        }
+      ]
+    },
+    {
+      "id": 13633,
+      "name": "Ubisoft Shanghai",
+      "slug": "ubisoft-shanghai-2",
+      "games_count": 25,
+      "image_background": "https://media.rawg.io/media/screenshots/404/404bb11b7eef9af26e41636e6bb1c645.jpg",
+      "games": [
+        {
+          "id": 23585,
+          "slug": "far-cry-5",
+          "name": "Far Cry 5",
+          "added": 8295
+        },
+        {
+          "id": 58616,
+          "slug": "assassins-creed-odyssey",
+          "name": "Assassin's Creed Odyssey",
+          "added": 8042
+        },
+        {
+          "id": 3726,
+          "slug": "trials-fusion",
+          "name": "Trials Fusion",
+          "added": 3229
+        },
+        {
+          "id": 463723,
+          "slug": "far-cry-6",
+          "name": "Far Cry 6",
+          "added": 2612
+        },
+        {
+          "id": 55984,
+          "slug": "beyond-good-evil",
+          "name": "Beyond Good & Evil",
+          "added": 2443
+        },
+        {
+          "id": 19646,
+          "slug": "splinter-cell",
+          "name": "Tom Clancy's Splinter Cell",
+          "added": 2243
+        }
+      ]
+    }
+  ]
+}
